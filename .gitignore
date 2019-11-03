@@ -1,0 +1,9 @@
+.idea
+build/tmp/compileScala/
+build/tmp/compileTestScala/
+out/
+build/
+.idea/
+processing.iml
+*.log
+target/
